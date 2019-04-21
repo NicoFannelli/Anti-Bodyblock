@@ -1,1 +1,10 @@
-{"disableAutoUpdate": false,"disabled": false,"name": "anti-bodyblock","author": "Fruit","description": "Removes allies bodyblock in dungeons.","version": "1.0","servers": ["https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/"],"options": {"niceName": "Anti Bodyblock","guiName": "Anti Bodyblock"}}
+{
+    "name": "Anti-Bodyblock",
+    "description": "Tired of being bodyblocked by your party members ? Well use this thing.",
+    "options": {
+        "niceName": "Anti-Bodyblock"
+    },
+    "servers": ["https://raw.githubusercontent.com/michengs/Anti-Bodyblock/master/"],
+    "supportUrl": "https://github.com/michengs/Anti-Bodyblock/pulls",
+    "disableAutoUpdate": false
+}
